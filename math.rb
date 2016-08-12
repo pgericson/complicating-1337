@@ -1,4 +1,3 @@
-require_relative 'para'
 $VERBOSE = nil
 def numbers
   [
